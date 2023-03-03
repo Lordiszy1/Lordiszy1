@@ -1,3 +1,4 @@
+<img align="center" width="1000" height="500" src="https://github.com/Lordiszy1/Lordiszy1/blob/main/bannerR.png">
 <h1 align="center">Hi 👋, I'm Israel Ogedengbe</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
